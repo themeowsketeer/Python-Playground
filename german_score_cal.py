@@ -1,0 +1,1 @@
+print(f'Your Vietnamese score is {round((10 - ( ( ( ( float(input("Type in your German score: ")) ) - 1 ) * (10 - 5) ) / 3)),1)}')
